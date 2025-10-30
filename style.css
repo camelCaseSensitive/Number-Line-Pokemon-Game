@@ -8,3 +8,9 @@ canvas {
   height: 100vh;
   object-fit: contain; /* or "cover" depending on desired crop behavior */
 }
+#sketch-holder {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  object-fit: contain; /* or "cover" depending on desired crop behavior */
+}
